@@ -1,0 +1,4 @@
+google-cloud-pubsub==2.5.0
+flask==2.0.1
+slackclient==2.9.3
+functions-framework==2.2.0
